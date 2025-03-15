@@ -1,0 +1,2 @@
+# MoodMeter
+Mood (text) analysis 
