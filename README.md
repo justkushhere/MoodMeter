@@ -1,3 +1,7 @@
+Check the app
+
+https://huggingface.co/spaces/Justkushere/MoodMeter
+
 ---
 title: MoodMeter
 emoji: 📈
